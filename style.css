@@ -36,6 +36,11 @@ td{
 	font-size: 30px;
 	
 }
+a{
+	border: 3px solid rgb(28, 71, 85);
+	color: aliceblue;
+	font-size: 30px;
+}
 table{
 	border-collapse: collapse;
 }
@@ -46,3 +51,20 @@ header{
 	justify-content: center ;
 	display: flex;
 }
+
+@media screen and (max-width:600px){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
