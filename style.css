@@ -52,7 +52,11 @@ header{
 }
 
 @media screen and (max-width:600px){
-	
+	html{
+
+		background-color: rgb(230,169,78);}
+
+		
 }
 
 
