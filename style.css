@@ -51,7 +51,7 @@ header{
 	display: flex;
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:800px){
 	html{
 
 		background-color: rgb(230,169,78);}
