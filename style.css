@@ -1,4 +1,4 @@
-цh1 {
+h1 {
 	text-align: center;
 	color:white;
 
@@ -12,8 +12,7 @@ html {
 
 
 p {
-	color:rgb(4, 0, 238);
-
+	color:rgb(255,255,179);
 }
 
 body {
